@@ -1,0 +1,707 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 277,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6ynswAEACAAJ",
+      "etag": "5UFmWcBQFlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ynswAEACAAJ",
+      "volumeInfo": {
+        "title": "La amante",
+        "subtitle": "canciones (1925)",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publisher": "Alianza Editorial Sa",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8420634921"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420634920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6ynswAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6ynswAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=6ynswAEACAAJ&dq=inauthor:Rafael+Alberti&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=6ynswAEACAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_amante.html?hl=&id=6ynswAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6ynswAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La amante se divide en cuatro partes: &quot;Hacia las tierras altas&quot;, &quot;Hacia el litoral del Norte&quot;, &quot;De vuelta del litoral&quot; y &quot;Madrid&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mALFwAEACAAJ",
+      "etag": "G3ypBQYsvqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mALFwAEACAAJ",
+      "volumeInfo": {
+        "title": "A la pintura",
+        "subtitle": "poema del color y de la línea",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publisher": "Alianza Editorial Sa",
+        "publishedDate": "2003",
+        "description": "En A LA PINTURA, Alberti «supo aunar con renovada audacia, mejor que en ningún otro libro suyo, las dos vocaciones inseparables de su vida: pintura y poesía. La singularidad del libro radica no sólo en que refleja en sus versos su amor hacia la pintura, sino en el hecho excepcional de que un poeta, que también es pintor, ponga en verso su visión de este arte. A la pintura es una de las cimas literarias de la amplia obra que el poeta compone en Argentina, en donde comienza ese exilio político que durará treinta y nueve años y que lo llevará, impulsado por la nostalgia, a componer una singular obra literaria muy lejos de sus paisajes, pero deslumbrado por otros que le resultarán tan hermosos como familiares». «El espíritu de la pintura y de los pintores preside la estructura del libro, cuyos inasibles pilares se sustentan en la maestría de unos sonetos diecinueve en total dedicados al lienzo, a la perspectiva, al claroscuro, a la mano, a la luz o a la divina proporción... Conmueve advertir cómo Alberti, al igual que un delicado orfebre, engarza las palabras con tanto esmero, precisión y acierto, con tanto dominio de lo que trata, que difícilmente puede contenerse la emoción a través de su lectura, tal es su amor hacia el idioma que utiliza...»",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8420641456"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420641454"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 221,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mALFwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mALFwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=mALFwAEACAAJ&dq=inauthor:Rafael+Alberti&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=mALFwAEACAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_la_pintura.html?hl=&id=mALFwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mALFwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En A LA PINTURA, Alberti «supo aunar con renovada audacia, mejor que en ningún otro libro suyo, las dos vocaciones inseparables de su vida: pintura y poesía."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rnM1-944h8QC",
+      "etag": "uEmmkT5LwXE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rnM1-944h8QC",
+      "volumeInfo": {
+        "title": "Rafael Alberti para niños",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "1998-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479602252"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479602253"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Children's poetry, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rnM1-944h8QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rnM1-944h8QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=rnM1-944h8QC&pg=PA34&dq=inauthor:Rafael+Alberti&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=rnM1-944h8QC&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Alberti_para_ni%C3%B1os.html?hl=&id=rnM1-944h8QC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rnM1-944h8QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CRONOLOGÍA 1902 El 16 de diciembre nace Rafael \u003cb\u003eAlberti\u003c/b\u003e Merello , en El Puerto de Santa María ( Cádiz ) . 1917 La familia \u003cb\u003eAlberti\u003c/b\u003e traslada su residencia a Madrid . Revolución Soviética . 1920 Muere D. Vicente \u003cb\u003eAlberti\u003c/b\u003e ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "if94gjO-iY8C",
+      "etag": "6ADt2L3OBWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/if94gjO-iY8C",
+      "volumeInfo": {
+        "title": "Rafael Alberti para niños y niñas¿ y otro seres curioso",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "2007-12-30",
+        "description": "En formato de álbum, cuidadosamente editado, esta antología recoge 23 poemas del reconocido poeta Rafael Alberti, los más adecuados para los pequeños lectores y para quienes se acercan a la poesía como si fueran niños. Ilustrados por Federico Delicado",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479603623"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479603625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=if94gjO-iY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=if94gjO-iY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=if94gjO-iY8C&printsec=frontcover&dq=inauthor:Rafael+Alberti&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=if94gjO-iY8C&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Alberti_para_ni%C3%B1os_y_ni%C3%B1as_y_ot.html?hl=&id=if94gjO-iY8C"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=if94gjO-iY8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En formato de álbum, cuidadosamente editado, esta antología recoge 23 poemas del reconocido poeta Rafael Alberti, los más adecuados para los pequeños lectores y para quienes se acercan a la poesía como si fueran niños."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "if94gjO-iY8C",
+      "etag": "wVPtd6U+D3A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/if94gjO-iY8C",
+      "volumeInfo": {
+        "title": "Rafael Alberti para niños y niñas¿ y otro seres curioso",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "2007-12-30",
+        "description": "En formato de álbum, cuidadosamente editado, esta antología recoge 23 poemas del reconocido poeta Rafael Alberti, los más adecuados para los pequeños lectores y para quienes se acercan a la poesía como si fueran niños. Ilustrados por Federico Delicado",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479603623"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479603625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=if94gjO-iY8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=if94gjO-iY8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=if94gjO-iY8C&pg=PA3&dq=inauthor:Rafael+Alberti&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=if94gjO-iY8C&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Alberti_para_ni%C3%B1os_y_ni%C3%B1as_y_ot.html?hl=&id=if94gjO-iY8C"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=if94gjO-iY8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rafael \u003cb\u003eAlberti\u003c/b\u003e para niños y niñas ... y otros seres curiosos Poemas de Rafael \u003cb\u003eAlberti\u003c/b\u003e Ilustraciones de Federico Delicado - De los poemas : Rafael \u003cb\u003eAlberti\u003c/b\u003e . El Alba. Ediciones de la Torre MADRID , 2007."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBqY0dHcv5cC",
+      "etag": "BzskaOMCPbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBqY0dHcv5cC",
+      "volumeInfo": {
+        "title": "Alberti",
+        "authors": [
+          "Rafael Alberti",
+          "Gabriel Berns"
+        ],
+        "publisher": "Univ of California Press",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0520042654"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780520042650"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EBqY0dHcv5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EBqY0dHcv5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=EBqY0dHcv5cC&pg=PA9&dq=inauthor:Rafael+Alberti&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=EBqY0dHcv5cC&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alberti.html?hl=&id=EBqY0dHcv5cC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Alberti-sample-epub.acsm?id=EBqY0dHcv5cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBqY0dHcv5cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rafael \u003cb\u003eAlberti\u003c/b\u003e, Gabriel Berns. perience is this world of Spain in the early part of the twentieth century as it is seen through the eyes and filtered through the memory of Rafael \u003cb\u003eAlberti\u003c/b\u003e ? Can his approach to and his exiled vision of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZlMKAQAAMAAJ",
+      "etag": "PTg+DCkcY8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZlMKAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Rafael Alberti: Estudio",
+        "authors": [
+          "Jerónimo Pablo González Martín",
+          "Rafael Alberti"
+        ],
+        "publisher": "Jucar",
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89016869794"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZlMKAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZlMKAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=ZlMKAQAAMAAJ&q=inauthor:Rafael+Alberti&dq=inauthor:Rafael+Alberti&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=ZlMKAQAAMAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Alberti_Estudio.html?hl=&id=ZlMKAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZlMKAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jerónimo Pablo González Martín, Rafael \u003cb\u003eAlberti\u003c/b\u003e. TE* &#39;jo / m Rafael srg \u003cb\u003eAlberti\u003c/b\u003e 1-ESTUDIO G. PABLO GONZALEZ MARTII."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2zFvnQEACAAJ",
+      "etag": "mwiBoxLY/KY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2zFvnQEACAAJ",
+      "volumeInfo": {
+        "title": "La voz de Rafael Alberti",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publishedDate": "1999",
+        "description": "Book consists of the texts of two presentations by Rafael Alberti as recorded on the compact disc.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8495078902"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788495078902"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 69,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2zFvnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2zFvnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=2zFvnQEACAAJ&dq=inauthor:Rafael+Alberti&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=2zFvnQEACAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_voz_de_Rafael_Alberti.html?hl=&id=2zFvnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2zFvnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book consists of the texts of two presentations by Rafael Alberti as recorded on the compact disc."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KoxdAAAAMAAJ",
+      "etag": "7fzwdqkd344",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KoxdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras de Rafael Alberti",
+        "authors": [
+          "Rafael Alberti"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015066284673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Spanish poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KoxdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KoxdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=KoxdAAAAMAAJ&q=inauthor:Rafael+Alberti&dq=inauthor:Rafael+Alberti&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=KoxdAAAAMAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_Rafael_Alberti.html?hl=&id=KoxdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KoxdAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Primera obra de \u003cb\u003eAlberti\u003c/b\u003e redactada íntegramente en el exilio, Pleamar es uno de los libros más extensos del poeta y uno de los que abarcan mayor plenitud y diversidad de acentos en la perspectiva común de la madurez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7ZFdAAAAMAAJ",
+      "etag": "wQwe+n8UwAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7ZFdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La poesía de Rafael Alberti",
+        "subtitle": "1930-1939",
+        "authors": [
+          "Antonio Jiménez Millán",
+          "Rafael Alberti"
+        ],
+        "publisher": "Adminstracion Publica",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019146417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "categories": [
+          "Revolutionary literature, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7ZFdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7ZFdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=7ZFdAAAAMAAJ&q=inauthor:Rafael+Alberti&dq=inauthor:Rafael+Alberti&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=7ZFdAAAAMAAJ&dq=inauthor:Rafael+Alberti&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_poes%C3%ADa_de_Rafael_Alberti.html?hl=&id=7ZFdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7ZFdAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 97,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HK-1zQEACAAJ",
+      "etag": "8L4vRtH6TqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HK-1zQEACAAJ",
+      "volumeInfo": {
+        "title": "Dans les pas de Valeria",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publishedDate": "2020-07-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2377355048"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782377355044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.es/books?id=HK-1zQEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=HK-1zQEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dans_les_pas_de_Valeria.html?hl=&id=HK-1zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HK-1zQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "49rXyQEACAAJ",
+      "etag": "GIffmor1teA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/49rXyQEACAAJ",
+      "volumeInfo": {
+        "title": "Dans les pas de Valeria",
+        "authors": [
+          "Elisabet [VNV] Benavent"
+        ],
+        "publishedDate": "2019-09-18",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2809826935"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782809826937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 399,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.es/books?id=49rXyQEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=49rXyQEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dans_les_pas_de_Valeria.html?hl=&id=49rXyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=49rXyQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z7TzjwEACAAJ",
+      "etag": "1yk7fsBFADE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z7TzjwEACAAJ",
+      "volumeInfo": {
+        "title": "Yüksek Topuklar Karisik Iliskiler",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publishedDate": "2016-04-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6053489484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786053489481"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.es/books?id=z7TzjwEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=z7TzjwEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Y%C3%BCksek_Topuklar_Karisik_Iliskiler.html?hl=&id=z7TzjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z7TzjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KG8XzwEACAAJ",
+      "etag": "qt/6G3kLA88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KG8XzwEACAAJ",
+      "volumeInfo": {
+        "title": "Todas esas cosas que te diré mañana",
+        "authors": [
+          "ELISABET. BENAVENT"
+        ],
+        "publishedDate": "2022-07-05",
+        "description": "¿Y si tuvieras la oportunidad de cambiar lo que ya has vivido? Miranda trabaja como subdirectora en una revista de moda. Miranda es feliz junto a Tristán. Por eso no entiende que la esté dejando. Ojalá pudiera dar marcha atrás y volver al momento en que se conocieron... Pero ¿y si realmente tuviera la oportunidad de cambiar su historia? La crítica ha dicho: «Elísabet Benavent es la voz masiva de una generación». Jesús Ruiz Mantilla, El País",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8491295976"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788491295976"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KG8XzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KG8XzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=KG8XzwEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=KG8XzwEACAAJ&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Todas_esas_cosas_que_te_dir%C3%A9_ma%C3%B1ana.html?hl=&id=KG8XzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KG8XzwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She wishes she could go back to the moment they met... But what if she really had the chance to change her story? The critics have said, &quot;Elísabet Benavent is the massive voice of a generation,&quot; Jesús Ruiz Mantilla, El País."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3wveDwAAQBAJ",
+      "etag": "zkDLoh7YfTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3wveDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La serie di Valeria",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2017-05-10",
+        "description": "INTRODUZIONE ALLA \"SERIE DI VALERIA\" DI ELISABET BENAVENT. INCLUDE UNA PRESENTAZIONE DELLE PROTAGONISTE E UNA RACCOLTA DI POST SCRITTI DALL'AUTRICE. Nel 2013 Elísabet Benavent pubblica su una piattaforma digitale il primo romanzo della serie di Valeria dal titolo En los zapatos de Valeria. Qualche mese dopo firmava un contratto editoriale per la pubblicazione del romanzo e quattro anni dopo l'intera serie fu venduta in vari Paesi. Il 25 maggio Nei panni di Valeria arriverà in Italia e nei prossimi mesi saranno pubblicati anche gli altri romanzi della serie. Elísabet Benavent ha scritto Nei panni di Valeria per \"non annoiare troppo\" le sue amiche e nel romanzo e in quelli successivi, ci ha messo tutte loro: i sogni, le inquietudini, le conversazioni, l'amore e il sesso. Un mix che si è trasformato in una serie di successo. Questo ebook, che include contenuti esclusivi e inediti in Italia, vuole essere un'introduzione al mondo che gira intorno a questa storia, a quella di Valeria e delle sue amiche, Lola, Nerea e Carmen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858690130"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8858690133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3wveDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3wveDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.es/books?id=3wveDwAAQBAJ&pg=PT41&dq=inauthor:Elisabet+Benavent&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=3wveDwAAQBAJ&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_serie_di_Valeria.html?hl=&id=3wveDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/La_serie_di_Valeria-sample-epub.acsm?id=3wveDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/La_serie_di_Valeria-sample-pdf.acsm?id=3wveDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3wveDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eBenavent\u003c/b\u003e. Elísabet \u003cb\u003eBenavent\u003c/b\u003e è nata a Valencia nel 1984. Ha esordito con Nei panni di Valeria autopubblicandosi, una scommessa vinta per conquistare una vita diversa da quella stressante e ripetitiva del lavoro d&#39;ufficio."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CGTKDgAAQBAJ",
+      "etag": "rMS/wJBPn80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CGTKDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Valeria in bianco e nero",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2017-06-22",
+        "description": "Dopo \"Nei panni di Valeria\" e \"Valeria allo specchio\", il terzo volume della Serie di Valeria di Elisabet Benavent. Quattro amiche, i sogni, le storie, le conversazioni e l'amore. Fatti innamorare!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858690154"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "885869015X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.22.21.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CGTKDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CGTKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.es/books?id=CGTKDgAAQBAJ&pg=PT1&dq=inauthor:Elisabet+Benavent&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CGTKDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CGTKDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CGTKDgAAQBAJ&rdid=book-CGTKDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_in_bianco_e_nero-sample-epub.acsm?id=CGTKDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_in_bianco_e_nero-sample-pdf.acsm?id=CGTKDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CGTKDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ELÍSABET \u003cb\u003eBENAVENT\u003c/b\u003e è nata a Valencia nel 1984. Ha esordito con Nei panni di Valeria autopubblicandosi, una scommessa vinta per conquistare una vita diversa da quella stressante e ripetitiva del lavoro d&#39;ufficio."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sWXIDgAAQBAJ",
+      "etag": "ww5MWDtMRMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWXIDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Nei panni di Valeria",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2017-05-25",
+        "description": "Valeria ha ventisette anni e vive a Madrid, ha lasciato un lavoro d'ufficio per dedicarsi alla scrittura di romanzi d'amore e il suo libro d'esordio è stato un successo. Adesso è alle prese con la stesura del secondo, ma è in difficoltà. E poi è sposata con Adrián, di cui si è innamorata quando era ancora ragazzina e con il quale ha un ménage forse fin troppo adulto. In fondo non ha ancora trent'anni e soffre la mancanza delle avventure che le raccontano le sue amiche: Lola, Nerea e Carmen, ognuna la rappresentazione di una tipologia femminile, dalla più forte alla più fragile, dalla femme fatale all'imbranata. Tutte donne che sentiamo vicine, forse perché le conosciamo, o forse perché si comportano come noi. Insicure, spericolate, ingenue e sognatrici, Valeria e le sue amiche ci conducono in un divertente scenario contemporaneo, dove l'amore, il sesso e gli uomini non sono traguardi facili. Attraverso le loro confessioni più intime e seguendo il racconto di avventure proibite, arriveremo alla fine di questa sensuale commedia per scoprire che gli equilibri sentimentali dell'inizio sono stati stravolti. Perché vivere a Madrid a trent'anni e non distrarsi non è facile, perché a trent'anni la vita è una tavola imbandita dove assaggiare di tutto un po'. Le rocambolesche serate di Valeria non finiscono: ci ritroveremo nei suoi panni in un secondo, poi un terzo e ancora un quarto romanzo. Una serie che in Spagna ha conquistato un milione di lettrici e che ha lanciato Elísabet Benavent in vetta alle classifiche.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858689530"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8858689534"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.19.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sWXIDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sWXIDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.es/books?id=sWXIDgAAQBAJ&pg=PT1&dq=inauthor:Elisabet+Benavent&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sWXIDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sWXIDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sWXIDgAAQBAJ&rdid=book-sWXIDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Nei_panni_di_Valeria-sample-epub.acsm?id=sWXIDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Nei_panni_di_Valeria-sample-pdf.acsm?id=sWXIDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWXIDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ELÍSABET \u003cb\u003eBENAVENT\u003c/b\u003e è nata a Valencia nel 1984. Ha esordito con Nei panni di Valeria autopubblicandosi, una scommessa vinta per conquistare una vita diversa da quella stressante e ripetitiva del lavoro d&#39;ufficio."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-2XIDgAAQBAJ",
+      "etag": "9C7B4g2FUq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-2XIDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Valeria allo specchio",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2017-06-08",
+        "description": "Valeria non sa cosa vuole, o forse pensa di saperlo e non trova la forza di guardarsi dentro davvero, ma sa che ha tanta paura, dopo Adrián, di perdere anche Víctor. Carmen vuole il suo uomo a tutti i costi, e per averlo è pronta anche a passare sul cadavere della suocera, se necessario. Nerea continua a volere sempre e solo qualcosa che esiste unicamente nelle sue fantasie, al punto di riscrivere la realtà in nome di un sogno. E intanto Lola, che dall'alto dei suoi tacchi a spillo giudica e deride tutte, si lancia nell'ennesima relazione mordi e fuggi. Valeria e le sue amiche non trovano pace, a Madrid, e la città sembra piena di uomini e situazioni che non aiutano a chiarirsi le idee. Forse perché il sesso non è tutto nella vita... o forse perché invece è vero il contrario? Il secondo romanzo della saga di Valeria, la conferma di un successo da un milione di copie, accende una luce briosa sul mondo delle donne e su quello degli uomini, troppo spesso ancorati su orbite che non s'incrociano mai. E insinua una domanda: se fosse il letto il campo di battaglia migliore dove mescolare la chimica dell'incontro, il desiderio, le migliori intenzioni e le peggiori? Questa è la storia di quattro amiche, capitolo secondo, in cui ritroviamo declinato in modo nuovo quell'interrogativo intimo e insondabile che tutte conosciamo: cos'è che ci fa felici? Valeria è determinata a scoprirlo, perché in fondo è esattamente questo che cerca: una nuova felicità. Perché Valeria è speciale. Proprio come te.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858689769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8858689763"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.20.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-2XIDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-2XIDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.es/books?id=-2XIDgAAQBAJ&pg=PT1&dq=inauthor:Elisabet+Benavent&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-2XIDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-2XIDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-2XIDgAAQBAJ&rdid=book--2XIDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_allo_specchio-sample-epub.acsm?id=-2XIDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_allo_specchio-sample-pdf.acsm?id=-2XIDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-2XIDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ELÍSABET \u003cb\u003eBENAVENT\u003c/b\u003e è nata a Valencia nel 1984. Ha esordito con Nei panni di Valeria autopubblicandosi, una scommessa vinta per conquistare una vita diversa da quella stressante e ripetitiva del lavoro d&#39;ufficio."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "08U6YzEs_skC",
+      "etag": "zbrc2xaUEv0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/08U6YzEs_skC",
+      "volumeInfo": {
+        "title": "Política criminal y sistema penal",
+        "subtitle": "viejas y nuevas racionalidades punitivas",
+        "authors": [
+          "Iñaki Rivera Beiras",
+          "Elisabet Almeda"
+        ],
+        "publisher": "Anthropos Editorial",
+        "publishedDate": "2005",
+        "description": "Debates epistemológicos y desarrollos históricos - Constitucionalismo social y política criminal: inicios, desarrollos y crisis - El estado español y la política criminal en el nuevo milenio.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8476587201"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788476587201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 494,
+        "printType": "BOOK",
+        "categories": [
+          "Criminal law"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=08U6YzEs_skC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=08U6YzEs_skC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=08U6YzEs_skC&pg=PA421&dq=inauthor:Elisabet+Benavent&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=08U6YzEs_skC&dq=inauthor:Elisabet+Benavent&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pol%C3%ADtica_criminal_y_sistema_penal.html?hl=&id=08U6YzEs_skC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=08U6YzEs_skC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Así , entre otros , Carbonell y Mira \u003cb\u003eBenavent\u003c/b\u003e en Vives Antón ( coord . ) , Comentarios al Código Penal de 1995 , volumen II , Valencia , Tirant lo Blanch , 1996 : 2127 . Esta objeción se puso de relieve también durante la tramitación&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jGXIDgAAQBAJ",
+      "etag": "D4SiunVP/UU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jGXIDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Valeria senza veli",
+        "authors": [
+          "Elisabet Benavent"
+        ],
+        "publisher": "Rizzoli",
+        "publishedDate": "2017-07-13",
+        "description": "Dopo \"Nei panni di Valeria\", \"Valeria allo specchio\" e \"Valeria in bianco e nero\", il volume conclusivo della Serie di Valeria di Elisabet Benavent. Quattro amiche, i sogni, le conversazioni, gli amori. Fatti innamorare! L'estate si avvicina, e l'estate, si sa, è la stagione dei nuovi amori, dei sogni da realizzare, degli incontri, ma anche quella degli addii e delle delusioni. L'estate di Valeria e delle sue amiche non fa eccezione: Carmen avrà Gonzalo, ma questa volta non si tratta di un uomo da sedurre, ma del suo primo figlio, di un rapporto destinato a durare per sempre. Lola non si smentisce, invece, ed eccola alle prese con un nuovo flirt, della tipologia più pericolosa: l'amante di turno è anche il suo nuovo capo. E Nerea adesso sembra essere davvero innamorata, di Jorge, giovane e avvenente fotografo. E poi c'è Valeria, che nonostante l'estate e la spensieratezza che dovrebbe portare si trova incastrata tra Bruno, il suo nuovo compagno con cui in fondo va tutto a gonfie vele, e Víctor, che non molla la presa, deciso a riconquistarla. Forse è arrivato il momento di decidere cosa vuoi davvero, Valeria: l'amore romantico, dolce, reso speciale dalla stabilità della vita quotidiana, o una cascata di emozioni a ritmo continuo, che della vita ti fa sentire solo gli alti? L'ultimo episodio della saga di Valeria non ci risparmia scintille e colpi di scena, trascinandoci in compagnia delle nostre quattro amiche madrilene in un nuovo mulinello di passione, erotismo e divertimento... senza veli. Con un finale a sorpresa che ha lo stesso sapore dell'estate più bella della nostra vita.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788858690161"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8858690168"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.21.20.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jGXIDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jGXIDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.es/books?id=jGXIDgAAQBAJ&pg=PT1&dq=inauthor:Elisabet+Benavent&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jGXIDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jGXIDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jGXIDgAAQBAJ&rdid=book-jGXIDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_senza_veli-sample-epub.acsm?id=jGXIDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Valeria_senza_veli-sample-pdf.acsm?id=jGXIDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jGXIDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ELÍSABET \u003cb\u003eBENAVENT\u003c/b\u003e è nata a Valencia nel 1984. Ha esordito con Nei panni di Valeria autopubblicandosi, una scommessa vinta per conquistare una vita diversa da quella stressante e ripetitiva del lavoro d&#39;ufficio."
+      }
+    }
+  ]
+}

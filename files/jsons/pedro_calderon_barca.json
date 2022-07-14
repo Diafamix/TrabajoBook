@@ -1,0 +1,640 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 259,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZphdAAAAMAAJ",
+      "etag": "2Wlls9+U/tU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZphdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La vida es sueño",
+        "authors": [
+          "Calderon",
+          "Pedro Calderón de la Barca"
+        ],
+        "publisher": "Catedra Ediciones",
+        "publishedDate": "1977",
+        "description": "Esta es la creacion mas lograda y de caracter mas universal de Calderon. Es, en sintesis, la plasmacion barroca de la idea de la fugacidad de la vida con todos los aditamentos geniales de construccion y estilo que el autor supo imprimirle. Con este pesimismo radical sobre el valor de la vida humana se interfiere el libre albedrio como afirmacion personal de Segismundo: \"y teniendo yo mas alma/tengo menos libertad?\"",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015020680669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZphdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZphdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=ZphdAAAAMAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=ZphdAAAAMAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_es_sue%C3%B1o.html?hl=&id=ZphdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZphdAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta es la creacion mas lograda y de caracter mas universal de Calderon. Es, en sintesis, la plasmacion barroca de la idea de la fugacidad de la vida con todos los aditamentos geniales de construccion y estilo que el autor supo imprimirle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YZPYjRjlkDIC",
+      "etag": "swvOUhXKHp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YZPYjRjlkDIC",
+      "volumeInfo": {
+        "title": "Teatro Escogido De Don Pedro Calderon De La Barca",
+        "authors": [
+          "Don Pedro Calderon"
+        ],
+        "publishedDate": "1877",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YZPYjRjlkDIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YZPYjRjlkDIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=YZPYjRjlkDIC&printsec=frontcover&dq=inauthor:Calderon+de+la+Barca&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YZPYjRjlkDIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YZPYjRjlkDIC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YZPYjRjlkDIC&rdid=book-YZPYjRjlkDIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.es/books/download/Teatro_Escogido_De_Don_Pedro_Calderon_De.epub?id=YZPYjRjlkDIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.es/books/download/Teatro_Escogido_De_Don_Pedro_Calderon_De.pdf?id=YZPYjRjlkDIC&hl=&output=pdf&sig=ACfU3U3EBUXq5wlr8CtS4KDqX3cf09YCOQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YZPYjRjlkDIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ORiXCgAAQBAJ",
+      "etag": "iQIfOCMqmBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ORiXCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Pedro Calderon de la Barca drámái",
+        "authors": [
+          "Calderon"
+        ],
+        "publisher": "Kossuth Kiadó",
+        "publishedDate": "2012-06-06",
+        "description": "Az 1600-ban született Calderón a spanyol aranyszázad („siglo de oro”) és így egyben az európai barokk egyik legjelentősebb alkotója volt. Száznál több drámát és nyolcvan kisebb színpadi művet írt. Ezek közül korábban mindössze hat mű volt lefordítva magyarra. Fábri Péter fordításai Calderón három műfaját is reprezentálják: a VIII. Henrik történelmi dráma; A világ nagy színháza a leghíresebb auto sacramental; A kereszt imádása pedig vallási tárgyú tragédia. A VIII. Henrik-et 1997-ben a Radnóti Színházban, A világ nagy színházá-t 2004-ben a Millenáris Szabadtéri Színpadon láthatta először a magyar közönség.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789630970198"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9630970198"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ORiXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ORiXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "hu",
+        "previewLink": "http://books.google.es/books?id=ORiXCgAAQBAJ&printsec=frontcover&dq=inauthor:Calderon+de+la+Barca&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ORiXCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ORiXCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.65,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 3.65,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ORiXCgAAQBAJ&rdid=book-ORiXCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3650000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3650000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ORiXCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Az 1600-ban született Calderón a spanyol aranyszázad („siglo de oro”) és így egyben az európai barokk egyik legjelentősebb alkotója volt."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SpfVwAEACAAJ",
+      "etag": "Cj/zWtr3Cjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SpfVwAEACAAJ",
+      "volumeInfo": {
+        "title": "Vida es sueno / Life is a Dream",
+        "authors": [
+          "Pedro Calderon de la Barca"
+        ],
+        "publishedDate": "2004-09-30",
+        "description": "¿Hay un destino prefijado o somos responsables de nuestros actos? ¿Qué leyes humanas o divinas nos gobiernan en esta vida? Calderón de la Barca, notable dramaturgo del Siglo de Oro español, propone en La vida es sueño el mundo como teatro, la vanidad de los bienes terrenales, y la debilidad de la ostentación. 'La experiencia me enseña que el hombre que vive sueña lo que es hasta despertar', recuerda Segismundo, el Príncipe cristiano, para no caer nuevamente en el engaño de una felicidad prestada. Sólo el amor y las buenas obras hacen trascender al hombre y lo conducen a la verdadera vida, aquella que está del otro lado de la mezquindad y la soberbia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9875505196"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789875505193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=SpfVwAEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=SpfVwAEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_es_sueno_Life_is_a_Dream.html?hl=&id=SpfVwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SpfVwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N6hCywAACAAJ",
+      "etag": "Rr8dThFZbR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N6hCywAACAAJ",
+      "volumeInfo": {
+        "title": "Eco y Narciso... de D. Pedro Calderon de La Barca",
+        "authors": [
+          "Pedro Calderon de la Barca"
+        ],
+        "publishedDate": "1796",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:743039710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=N6hCywAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=N6hCywAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eco_y_Narciso_de_D_Pedro_Calderon_de_La.html?hl=&id=N6hCywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N6hCywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xXAscgAACAAJ",
+      "etag": "upp8FOnEqCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xXAscgAACAAJ",
+      "volumeInfo": {
+        "title": "Las comedias de D. Pedro Calderon de la Barca",
+        "authors": [
+          "D. Pedro Calderon"
+        ],
+        "publishedDate": "1828",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:643427927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=xXAscgAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=xXAscgAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_comedias_de_D_Pedro_Calderon_de_la_B.html?hl=&id=xXAscgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xXAscgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rMVkswEACAAJ",
+      "etag": "9HL+MKKJYtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rMVkswEACAAJ",
+      "volumeInfo": {
+        "title": "Las mejores obras de teatro de Pedro Caldern de la Barca/ The best plays by Pedro Caldern de la Barca",
+        "authors": [
+          "Pedro Caldern de la Barca"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-10-19",
+        "description": "Pedro Calder�n de la Barca (1600- 1681) fue un escritor espa�ol, caballero de la Orden de Santiago, conocido fundamentalmente por ser uno de los m�s insignes literatos barrocos del Siglo de Oro, en especial por sus grandes obras de teatro. La obra teatral de Calder�n de la Barca significa la culminaci�n barroca del modelo teatral creado a finales del siglo XVI y comienzos del XVII por Lope de Vega. Durante un tiempo se subestim� el teatro c�mico de Calder�n, pero �ltimamente ha sido revalorizado, pues ciertamente compuso obras maestras en el g�nero que pueden ser calificadas como comedias de enredo, como La dama duende, Casa con dos puertas, mala es de guardar o El gal�n fantasma, y no descuid� el teatro menor.En este libro:La vida es sue�oEl Alcalde de ZalameaEl Gran Teatro del MundoEl m�dico de su honraCasa con dos puertas mala es de guardar",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978443366"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978443365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rMVkswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rMVkswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=rMVkswEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=rMVkswEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_mejores_obras_de_teatro_de_Pedro_Cal.html?hl=&id=rMVkswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rMVkswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pedro Calderón de la Barca (1600- 1681) fue un escritor español, caballero de la Orden de Santiago, conocido fundamentalmente por ser uno de los más insignes literatos barrocos del Siglo de Oro, en especial por sus grandes obras de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ols6zgEACAAJ",
+      "etag": "sXViTUoktGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ols6zgEACAAJ",
+      "volumeInfo": {
+        "title": "La Vida es Sueño",
+        "subtitle": "Pedro Calderon de la Barca - Libro Completo",
+        "authors": [
+          "Pedro Calderon De La Barca"
+        ],
+        "publishedDate": "2021-02-12",
+        "description": "La vieja historia de un joven príncipe desterrado por el padre que desea evitar el fatal vaticinio de las estrellas es el punto de partida de la obra maestra de Calderón, publicada en la Primera parte de sus comedias (1636). Pocas piezas del teatro áureo lograron ensamblar una riquez de pensamiento tan sugestiva y compleja con una técnica tan depurada en la articulación de la trama y el manejo de la lengua poética. Pocas obras maestras se muestran tan vigentes hoy día (un hoy especialmente predispuesto a la añoranza barroca) como La vida es sueño. Drama religioso o filosófico que, desde el absoluto seiscentista, urde sus raíces en los mitos orientales, la literalidad de su lección moral es capaz, sin embargo, de traducirse en lectura política (educación de príncipes) y en grito revolucionario.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798708502742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ols6zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ols6zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=Ols6zgEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=Ols6zgEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Vida_es_Sue%C3%B1o.html?hl=&id=Ols6zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ols6zgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pocas obras maestras se muestran tan vigentes hoy día (un hoy especialmente predispuesto a la añoranza barroca) como La vida es sueño."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_4BiywAACAAJ",
+      "etag": "r3B6fsVVhPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_4BiywAACAAJ",
+      "volumeInfo": {
+        "title": "La exaltacion de la cruz, de don Pedro Calderon de La Barca",
+        "authors": [
+          "Pedro Calderon de la Barca"
+        ],
+        "publishedDate": "1748",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:742704417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=_4BiywAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=_4BiywAACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_exaltacion_de_la_cruz_de_don_Pedro_Ca.html?hl=&id=_4BiywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_4BiywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NTWuZwEACAAJ",
+      "etag": "XVS7A00hloE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NTWuZwEACAAJ",
+      "volumeInfo": {
+        "title": "Comedias del celebre poeta español D. Pedro Calderon de la Barca",
+        "authors": [
+          "Pedro Calderon de la Barca",
+          "Juan Fernandez de Apontes"
+        ],
+        "publishedDate": "1760",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:474943599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=NTWuZwEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=NTWuZwEACAAJ&dq=inauthor:Calderon+de+la+Barca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comedias_del_celebre_poeta_espa%C3%B1ol_D_Pe.html?hl=&id=NTWuZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NTWuZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

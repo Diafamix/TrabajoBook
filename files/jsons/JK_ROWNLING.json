@@ -1,0 +1,737 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 169,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tYlezgEACAAJ",
+      "etag": "OAQlR/i48Rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tYlezgEACAAJ",
+      "volumeInfo": {
+        "title": "El Ickabog",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2020",
+        "description": "El reino de Cornucopia era el más feliz del mundo. Tenía oro en abundancia, un rey con unos bigotes magníficos y un montón de carniceros, reposteros y queseros cuyos exquisitos productos hacían que la gente bailara de júbilo cuando los comía. Todo era perfecto, excepto Los Pantanos, la región del norte donde, según la leyenda, vivía el terrorífico ickabog. Sobre ese monstruo, cualquiera con un poco de cabeza sabía que no era más que una fábula que los padres utilizaban para que los niños se portaran bien. Aunque lo extraño de las fábulas es que a veces cobran vida propia...Pero ¿puede una leyenda derrocar a un rey amado por su pueblo y destruir un reino feliz? ¿Puede embarcar a dos chicos valientes en una aventura que no han buscado y ni siquiera imaginado?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8418174358"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418174353"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=tYlezgEACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=tYlezgEACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Ickabog.html?hl=&id=tYlezgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tYlezgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Todo era perfecto, excepto Los Pantanos, la región del norte donde, según la leyenda, vivía el terrorífico ickabog."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UwYpEAAAQBAJ",
+      "etag": "RF7v/Ir+5Zw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UwYpEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Christmas Pig",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2021-10-12",
+        "description": "A heartwarming, page-turning adventure about one child's love for his most treasured thing, and how far he will go to find it. A tale for the whole family to fall in love with, from one of the world’s greatest storytellers. One boy and his toy are about to change everything... Jack loves his childhood toy, Dur Pig. DP has always been there for him, through good and bad. Until one Christmas Eve something terrible happens -- DP is lost. But Christmas Eve is a night for miracles and lost causes, a night when all things can come to life... even toys. And Jack’s newest toy -- the Christmas Pig (DP’s replacement) – has a daring plan: Together they’ll embark on a magical journey to seek something lost, and to save the best friend Jack has ever known...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338790252"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338790250"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UwYpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UwYpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=UwYpEAAAQBAJ&printsec=frontcover&dq=inauthor:J.K.Rowling&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=UwYpEAAAQBAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Christmas_Pig.html?hl=&id=UwYpEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Christmas_Pig-sample-epub.acsm?id=UwYpEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Christmas_Pig-sample-pdf.acsm?id=UwYpEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UwYpEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And Jack’s newest toy -- the Christmas Pig (DP’s replacement) – has a daring plan: Together they’ll embark on a magical journey to seek something lost, and to save the best friend Jack has ever known."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gL9xswEACAAJ",
+      "etag": "QLDq+/rRVNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gL9xswEACAAJ",
+      "volumeInfo": {
+        "title": "Vivir Bien La Vida: Los Beneficios Inesperados del Francaso Y La Imaginación / Very Good Lives",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Salamandra",
+        "publishedDate": "2018-04-30",
+        "description": "\"Cuando J.K. Rowling fue invitada a dar el discurso de la ceremonia de graduaciâon de los alumnos de la Universidad de Harvard en junio de 2008, decidiâo hablar sobre dos asuntos que le interesan especialmente: las virtudes del fracaso y el papel crucial de la imaginaciâon. Las anecdotas que J.K. Rowling compartio con los estudiantes y algunas preguntas provocativas que les hizo han sido una fuente de inspiracion inagotable para todos aquellos que se han parado a pensar, a partir de su bello discurso, como vivir bien la vida\"--Amazon.com.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8498388430"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498388435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gL9xswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gL9xswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=gL9xswEACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=gL9xswEACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vivir_Bien_La_Vida_Los_Beneficios_Inespe.html?hl=&id=gL9xswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gL9xswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Cuando J.K. Rowling fue invitada a dar el discurso de la ceremonia de graduaciâon de los alumnos de la Universidad de Harvard en junio de 2008, decidiâo hablar sobre dos asuntos que le interesan especialmente: las virtudes del fracaso y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "taUtMQAACAAJ",
+      "etag": "F8w2Ren7JxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/taUtMQAACAAJ",
+      "volumeInfo": {
+        "title": "Animales Fantásticos Y Dónde Encontrarlos / Fantastic Beasts & Where to Find Them",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Salamandra Infantil Y Juvenil",
+        "publishedDate": "2017-05-31",
+        "description": "Hay un ejemplar de Animales fantasticos y donde encontrarlos en casi todos los hogares de magos del pais. Ahora, tambien los muggles pueden descubrir donde viven los quintapeds, que come el puffskein y por que es mejor no dejar leche fuera de casa para un knarl. Lo que se origine de la venta de este libro se destinara a Comic Relief, lo que significa que los euros, dolares o galeones que pagues por el produciran una magia que va mas alla de los poderes de cualquier mago. Si consideras que esta no es razon suficiente para desprenderte de tu dinero, solo me queda confiar en que, si alguna vez te ataca una manticora, los magos que anden cerca se sientan mas caritativos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8498387949"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498387940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=taUtMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=taUtMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=taUtMQAACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=taUtMQAACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Animales_Fant%C3%A1sticos_Y_D%C3%B3nde_Encontrar.html?hl=&id=taUtMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=taUtMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hay un ejemplar de Animales fantasticos y donde encontrarlos en casi todos los hogares de magos del pais."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p3QQjwEACAAJ",
+      "etag": "gx15JAuV6xc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p3QQjwEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the philosopher's stone",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2010",
+        "description": "Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el colegio interno Hogwarts de magia y hechicería. A partir de ese momento, la suerte de Harry da un vuelco espectacular. En esa escuela tan especial aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes. Se convertirá en el campeón escolar de quidditch, especie de fútbol aéreo que se juega montado sobre escobas, y se hará un puñado de buenos amigos... aunque también algunos temibles enemigos. Pero sobre todo, conocerá los secretos que le permitirán cumplir con su destino. Pues, aunque no lo parezca a primera vista, Harry no es un chico común y corriente. ¡Es un verdadero mago! (Source : 4e de couverture)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8498382661"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498382662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p3QQjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p3QQjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=p3QQjwEACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=p3QQjwEACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_philosopher_s_stone.html?hl=&id=p3QQjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p3QQjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yKMHMQAACAAJ",
+      "etag": "/uRjEuKretU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yKMHMQAACAAJ",
+      "volumeInfo": {
+        "title": "Los Cuentos de Beedle el Bardo / the Tales of Beedle the Bard",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Salamandra Infantil Y Juvenil",
+        "publishedDate": "2017-05-31",
+        "description": "Con introducción, notas e ilustraciones de J.K. Rowling, esta nueva edición, única y mágica, perdurará como un pequeño tesoro en los años venideros.Los cuentos de Beedle el Bardo contienen cinco relatos de aventuras, astucia, tribulaciones y, por supuesto, magia. Traducidos del rúnico antiguo por Hermione Granger, con comentarios añadidos de Albus Dumbledore, estos cuentos considerados clásicos por los magos volverán a fascinar, sin duda, a los lectores de hoy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8498387930"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498387933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 119,
+        "printType": "BOOK",
+        "categories": [
+          "Anthologies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yKMHMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yKMHMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=yKMHMQAACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=yKMHMQAACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Cuentos_de_Beedle_el_Bardo_the_Tales.html?hl=&id=yKMHMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yKMHMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Publicado por Lumos en colaboraciaon con Ediciones Salamandra&quot;--Title page verso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_-hnPrimlnYC",
+      "etag": "xAheePSph48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_-hnPrimlnYC",
+      "volumeInfo": {
+        "title": "Harry Potter y la cámara secreta",
+        "authors": [
+          "J. K. Rowling",
+          "Nieves Martín Azofra"
+        ],
+        "publisher": "Emece",
+        "publishedDate": "1999",
+        "description": "Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera impaciente en casa de sus insoportables tíos el inicio del segundo curso del Colegio Hogwarts de Magia y Hechicería. Sin embargo, la espera dura poco, pues un elfo aparece en su habitación y le advierte que una amenaza mortal se cierne sobre la escuela. Así pues, Harry no se lo piensa dos veces y, acompañado de Ron, su mejor amigo, se dirige a Hogwarts en un coche volador. Pero ¿puede un aprendiz de mago defender la escuela de los malvados que pretenden destruirla? Sin saber que alguien ha abierto la Cámara de los Secretos, dejando escapar una serie de monstruos peligrosos, Harry y sus amigos Ron y Hermione tendrán que enfrentarse con arañas gigantes, serpientes encantadas, fantasmas enfurecidos y, sobre todo, con la mismísima reencarnación de su más temible adversario.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8478884955"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788478884957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 125,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_-hnPrimlnYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_-hnPrimlnYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=_-hnPrimlnYC&dq=inauthor:J.K.Rowling&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=_-hnPrimlnYC&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_y_la_c%C3%A1mara_secreta.html?hl=&id=_-hnPrimlnYC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_-hnPrimlnYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tras derrotar una vez más a lord Voldemort, su siniestro enemigo en Harry Potter y la piedra filosofal, Harry espera impaciente en casa de sus insoportables tíos el inicio del segundo curso del Colegio Hogwarts de Magia y Hechicería."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nqtTvgEACAAJ",
+      "etag": "RM33h1cwntM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nqtTvgEACAAJ",
+      "volumeInfo": {
+        "title": "Los Crimenes de Grindelwald / the Crimes of Grindelwald: Guión Original de la Pelicula / the Original Screenplay",
+        "authors": [
+          "J.k. Rowling"
+        ],
+        "publisher": "Salamandra Infantil Y Juvenil",
+        "publishedDate": "2019-02-15",
+        "description": "Al final del primer episodio, el poderoso mago oscuro Gellert Grindelwald es capturado con la ayuda de Newt Scamander. Sin embargo, Grindelwald logra escapar y cumple con su amenaza de alistar nuevos seguidores, ocultándoles sus verdaderas intenciones: conseguir que los magos de sangre pura dominen a los muggles. En un esfuerzo por frustrar los planes de Grindelwald, Albus Dumbledore le pide ayuda a Newt, su ex alumno de Hogwarts, y éste acepta sin imaginar los peligros que le esperan. Así pues, cuando el amor y la lealtad son puestos a prueba, incluso entre amigos y familiares, el mundo mágico se muestra cada vez más dividido.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8498389089"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498389081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 269,
+        "printType": "BOOK",
+        "categories": [
+          "Animals, Mythical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nqtTvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nqtTvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=nqtTvgEACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=nqtTvgEACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Crimenes_de_Grindelwald_the_Crimes_o.html?hl=&id=nqtTvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nqtTvgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This second original screenplay from J.K. Rowling, illustrated with stunning line art from MinaLima, expands on earlier events that helped shaped the Wizarding World, with some surprising nods to the Harry Potter stories that will delight ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X-IfvgAACAAJ",
+      "etag": "1AxOLFBHyFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X-IfvgAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y el misterio del príncipe",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Lectorum Publications",
+        "publishedDate": "2006",
+        "description": "Con dieciséis años cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra. Elegido capitán del equipo de Quidditch, los entrenamientos, los exámenes y las chicas ocupan todo su tiempo, pero la tranquilidad dura poco. A pesar de los férreos controles de seguridad que protegen la escuela, dos alumnos son brutalmente atacados. Dumbledore sabe que se acerca el momento, anunciado por la Profecía, en que Harry y Voldemort se enfrentarán a muerte: «El único con poder para vencer al Señor Tenebroso se acerca... Uno de los dos debe morir a manos del otro, pues ninguno de los dos podrá vivir mientras siga el otro con vida.». El anciano director solicitará la ayuda de Harry y juntos emprenderán peligrosos viajes para intentar debilitar al enemigo, para lo cual el joven mago contará con la ayuda de un viejo libro de pociones perteneciente a un misterioso príncipe, alguien que se hace llamar Príncipe Mestizo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8478889906"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788478889907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 602,
+        "printType": "BOOK",
+        "categories": [
+          "Bildungsromans, English"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X-IfvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X-IfvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=X-IfvgAACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=X-IfvgAACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_y_el_misterio_del_pr%C3%ADncipe.html?hl=&id=X-IfvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X-IfvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con dieciséis años cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IY2uzQEACAAJ",
+      "etag": "dTjSdaDQFJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IY2uzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Ickabog",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2020-11-10",
+        "description": "As the legend of the fearsome Ickabog spreads terror in the peaceful kingdom of Cornucopia, best friends Bert and Daisy set out to discover the truth and bring happiness back to the kingdom.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1338732870"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338732870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IY2uzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IY2uzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=IY2uzQEACAAJ&dq=inauthor:J.K.Rowling&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=IY2uzQEACAAJ&dq=inauthor:J.K.Rowling&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ickabog.html?hl=&id=IY2uzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IY2uzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the legend of the fearsome Ickabog spreads terror in the peaceful kingdom of Cornucopia, best friends Bert and Daisy set out to discover the truth and bring happiness back to the kingdom."
+      }
+    }
+  ]
+}

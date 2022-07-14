@@ -1,0 +1,691 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 299,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9rVbpwAACAAJ",
+      "etag": "R0clwraMR3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9rVbpwAACAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "Luis Cernuda"
+        ],
+        "publishedDate": "2007",
+        "description": "El origen de esta antología es La realidad y el deseo, obra que engloba la totalidad de los libros de poesía de Cernuda, así como de los libros de prosa poética Ocnos y Variaciones. Para Pedro Salinas la poesía de Cernuda constituye la depuración más perfecta, el más fino, el último posible grado de reducción a su pura esencia del lirismo romántico español. La edición corre a cargo de Ángel Rupérez.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8467036338"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788467036336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=9rVbpwAACAAJ&dq=inauthor:Luis+Cernuda&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=9rVbpwAACAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=9rVbpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9rVbpwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El origen de esta antología es La realidad y el deseo, obra que engloba la totalidad de los libros de poesía de Cernuda, así como de los libros de prosa poética Ocnos y Variaciones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "595sQAAACAAJ",
+      "etag": "B+M2hlD6C3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/595sQAAACAAJ",
+      "volumeInfo": {
+        "title": "Ocnos",
+        "authors": [
+          "Luis Cernuda"
+        ],
+        "publishedDate": "2009-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8475068383"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788475068381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=595sQAAACAAJ&dq=inauthor:Luis+Cernuda&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=595sQAAACAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ocnos.html?hl=&id=595sQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=595sQAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6qldz9iApUwC",
+      "etag": "ZDbFDW5LOug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6qldz9iApUwC",
+      "volumeInfo": {
+        "title": "Luis Cernuda para niños",
+        "authors": [
+          "Luis Cernuda"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479602716"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479602710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Children's poetry, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6qldz9iApUwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6qldz9iApUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=6qldz9iApUwC&printsec=frontcover&dq=inauthor:Luis+Cernuda&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=6qldz9iApUwC&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Cernuda_para_ni%C3%B1os.html?hl=&id=6qldz9iApUwC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6qldz9iApUwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6qldz9iApUwC",
+      "etag": "Qz7p2toSnWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6qldz9iApUwC",
+      "volumeInfo": {
+        "title": "Luis Cernuda para niños",
+        "authors": [
+          "Luis Cernuda"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479602716"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479602710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Children's poetry, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6qldz9iApUwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6qldz9iApUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=6qldz9iApUwC&pg=PA22&dq=inauthor:Luis+Cernuda&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=6qldz9iApUwC&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Cernuda_para_ni%C3%B1os.html?hl=&id=6qldz9iApUwC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6qldz9iApUwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Luis \u003cb\u003eCernuda\u003c/b\u003e había abandonado Inglaterra en 1947 para trasladarse a EE.UU. Desde este país viaja a México en el verano de 1949. El reencuentro con su lengua y con la luz meridional propician el deseo de recuperar la dicha perdida ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1FNfAAAAMAAJ",
+      "etag": "XSdNTI8QIlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1FNfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La realidad y el deseo",
+        "subtitle": "Luis Cernuda",
+        "authors": [
+          "Luis Maristany"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015041812390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1FNfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1FNfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=1FNfAAAAMAAJ&q=inauthor:Luis+Cernuda&dq=inauthor:Luis+Cernuda&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=1FNfAAAAMAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_realidad_y_el_deseo.html?hl=&id=1FNfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1FNfAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eJVfAAAAMAAJ",
+      "etag": "+Q/puhs/KCQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eJVfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Luis Cernuda",
+        "subtitle": "álbum",
+        "authors": [
+          "James Valender",
+          "Luis Muñoz"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056944856"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 541,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eJVfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eJVfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=eJVfAAAAMAAJ&q=inauthor:Luis+Cernuda&dq=inauthor:Luis+Cernuda&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=eJVfAAAAMAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Cernuda.html?hl=&id=eJVfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eJVfAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "chUHAQAAIAAJ",
+      "etag": "T4/AkjQZK2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/chUHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "3 Luis Cernuda",
+        "authors": [
+          "Jaime Gil de Biedma",
+          "Juan Gil-Albert",
+          "Luis Antonio de Villena"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105038736489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=chUHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=chUHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=chUHAQAAIAAJ&q=inauthor:Luis+Cernuda&dq=inauthor:Luis+Cernuda&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=chUHAQAAIAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/3_Luis_Cernuda.html?hl=&id=chUHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=chUHAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eJVfAAAAMAAJ",
+      "etag": "dj+5rPeAh3U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eJVfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Luis Cernuda",
+        "subtitle": "álbum",
+        "authors": [
+          "James Valender",
+          "Luis Muñoz"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056944856"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 541,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eJVfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eJVfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=eJVfAAAAMAAJ&q=inauthor:Luis+Cernuda&dq=inauthor:Luis+Cernuda&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=eJVfAAAAMAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Cernuda.html?hl=&id=eJVfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eJVfAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ojplAAAAMAAJ",
+      "etag": "HzV9ut3xkHs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ojplAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Luis Cernuda",
+        "authors": [
+          "Luis Cernuda",
+          "Luis Miguel Vicente"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015060849646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ojplAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ojplAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=ojplAAAAMAAJ&q=inauthor:Luis+Cernuda&dq=inauthor:Luis+Cernuda&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=ojplAAAAMAAJ&dq=inauthor:Luis+Cernuda&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Cernuda.html?hl=&id=ojplAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ojplAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWMbYLmfCsQC",
+      "etag": "i2lIV4KUm+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWMbYLmfCsQC",
+      "volumeInfo": {
+        "title": "Prosa narrativa y teatro",
+        "authors": [
+          "Luis Cernuda"
+        ],
+        "publisher": "Editorial Renacimiento",
+        "publishedDate": "2002",
+        "description": "Aunque considerado fundamentalmente como poeta, y el conjunto de sus libros bajo el título de La realidad y el deseo como uno de los grandes logros de la poesía europea del siglo XX, también el trabajo crítico de Luis Cernuda es muy apreciado, por la originalidad y contundencia de sus juicios. Mucho menos conocida es su doble dedicación a la narración y al teatro, que este volumen rescata. En los escasos relatos que Cernuda publicó en vida, en la única obra teatral que llegó a terminar, se pueden rastrear aspectos que complementan su poesía, y se adivinan rasgos de su personalidad proyectados en algunos personajes narrativos. Los relatos de Cernuda son, además, un raro testimonio, pues los poetas del 27 no cultivaron –con la excepción de Salinas– la prosa de ficción. En ellos, se logra «hacer visible una atmósfera, dar expresión poética a un ambiente...». Escritos a cámara lenta en unos años centrales de su vida, con la voluntad de darnos en sus páginas una poesía del sueño y la realidad», constituyen una parte no desdeñable en el conjunto de su obra. Descubierta tardíamente, tras una peripecia que tiene mucho de detectivesca, La familia interrumpida es la única obra teatral completa que nos ha legado Cernuda. En ella, bajo una trama costumbrista, se indaga sobre algunos temas –las presiones sociales, la fuerza del amor, el tiempo– que tanto preocuparon al poeta.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484720713"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484720713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qWMbYLmfCsQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qWMbYLmfCsQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=qWMbYLmfCsQC&printsec=frontcover&dq=inauthor:Luis+Cernuda&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qWMbYLmfCsQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qWMbYLmfCsQC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.5,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.5,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qWMbYLmfCsQC&rdid=book-qWMbYLmfCsQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2500000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2500000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qWMbYLmfCsQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aunque considerado fundamentalmente como poeta, y el conjunto de sus libros bajo el título de La realidad y el deseo como uno de los grandes logros de la poesía europea del siglo XX, también el trabajo crítico de Luis Cernuda es muy ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 345,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zUe9AAAACAAJ",
+      "etag": "Ngqb7PJH5es",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zUe9AAAACAAJ",
+      "volumeInfo": {
+        "title": "Federico García Lorca para niños",
+        "authors": [
+          "Federico García Lorca",
+          "Alicia Cañas Cortázar",
+          "José Morán"
+        ],
+        "publisher": "Susaeta Ediciones",
+        "publishedDate": "1999-01-01",
+        "description": "Esta antología ofrece al lector algunas de las mejores poesías para niños y jóvenes de este gran artista granadino, ordenadas en capítulos temáticos: Canciones y ritmos, Algunos animales, Naturaleza y paisajes, Infancias y juegos, Baladas y amores, Histor",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8430593020"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788430593026"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zUe9AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zUe9AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=zUe9AAAACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=zUe9AAAACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Federico_Garc%C3%ADa_Lorca_para_ni%C3%B1os.html?hl=&id=zUe9AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zUe9AAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lorca siempre tuvo un especial amor por la infancia, nunca dejó de ser un poco niño, y en estas páginas, deliciosamente ilustradas, hemos querido reunir versos sublimes junto a otros más sencillos y cercanos inspirados o dedicados a los ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rfsHfAEACAAJ",
+      "etag": "sB1z4Z2m/Ms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rfsHfAEACAAJ",
+      "volumeInfo": {
+        "title": "Obras selectas",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8467036842"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788467036848"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 783,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rfsHfAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rfsHfAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=rfsHfAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=rfsHfAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_selectas.html?hl=&id=rfsHfAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rfsHfAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J7z5oAEACAAJ",
+      "etag": "485ijSz6oVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J7z5oAEACAAJ",
+      "volumeInfo": {
+        "title": "12 poemas de Federico García Lorca",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publishedDate": "2014-06",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8492608838"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788492608836"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=J7z5oAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=J7z5oAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/12_poemas_de_Federico_Garc%C3%ADa_Lorca.html?hl=&id=J7z5oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J7z5oAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los versos de Lorca más próximos a la canción popular, el poema musical y el juego infantil, con las ilustraciones líricas y simbólicas de Pacheco."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-n0nQEACAAJ",
+      "etag": "p+xJFuy0+tY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-n0nQEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía completa",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8416072027"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788416072026"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 827,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j-n0nQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j-n0nQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=j-n0nQEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=j-n0nQEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_completa.html?hl=&id=j-n0nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-n0nQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lCp1AQAACAAJ",
+      "etag": "FEx8xAM5SrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lCp1AQAACAAJ",
+      "volumeInfo": {
+        "title": "Teatro Completo",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:953616376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=lCp1AQAACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=lCp1AQAACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teatro_Completo.html?hl=&id=lCp1AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lCp1AQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LEDHBgAAQBAJ",
+      "etag": "Fw1k9WhSHLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LEDHBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Los mejores poemas para niños de Federico García Lorca",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publisher": "Editorial Verbum",
+        "publishedDate": "2015-02-23",
+        "description": "Federico García Lorca es considerado uno de los poetas más importantes de la lengua española en el siglo XX. Su obra, interrumpida por su asesinato víctima de la Guerra Civil Española, es hija de la tradición lírica castellana, que actualiza y enriquece con su especial sensibilidad artística. En sus poemas, obras teatrales y demás textos se aprecia la huella de la música y el folclor español. Los textos que recogemos en este libro pueden ser leídos y disfrutados por los niños gracias a su belleza lírica y musicalidad, que cautivan más allá de los múltiples significados de su poesía.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490741153"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490741158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LEDHBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LEDHBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=LEDHBgAAQBAJ&printsec=frontcover&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LEDHBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LEDHBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.65,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LEDHBgAAQBAJ&rdid=book-LEDHBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7000000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6650000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Los_mejores_poemas_para_ni%C3%B1os_de_Federi-sample-pdf.acsm?id=LEDHBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LEDHBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Federico García Lorca es considerado uno de los poetas más importantes de la lengua española en el siglo XX. Su obra, interrumpida por su asesinato víctima de la Guerra Civil Española, es hija de la tradición lírica castellana, que ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WTnhYQcyB2QC",
+      "etag": "b5fsw5s4f08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WTnhYQcyB2QC",
+      "volumeInfo": {
+        "title": "Federico García Lorca para niños y niñas¿ y otros seres curiosos",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "2006",
+        "description": "En formato de álbum, cuidadosamente editado, esta antología recoge 17 poemas del universal poeta de Granada, los más adecuados para los pequeños lectores y para quienes se acercan a la poesía como si fueran niños. Magistralmente ilustrados por Miguel Calatayud.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479603615"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479603618"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Children's poetry, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WTnhYQcyB2QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WTnhYQcyB2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=WTnhYQcyB2QC&printsec=frontcover&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=WTnhYQcyB2QC&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Federico_Garc%C3%ADa_Lorca_para_ni%C3%B1os_y_ni.html?hl=&id=WTnhYQcyB2QC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WTnhYQcyB2QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En formato de álbum, cuidadosamente editado, esta antología recoge 17 poemas del universal poeta de Granada, los más adecuados para los pequeños lectores y para quienes se acercan a la poesía como si fueran niños."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JCZfAAAAMAAJ",
+      "etag": "uEoq75fYFjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JCZfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Garcia Lorca",
+        "subtitle": "Romancero Gitano",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publisher": "Grant & Cutler Spanish Texts",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015029150714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JCZfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JCZfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=JCZfAAAAMAAJ&q=inauthor:Federico+Garcia+Lorca&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=JCZfAAAAMAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Garcia_Lorca.html?hl=&id=JCZfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JCZfAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DdLcFYSFuEYC",
+      "etag": "KoQRiBeEd34",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DdLcFYSFuEYC",
+      "volumeInfo": {
+        "title": "Poesia Completa",
+        "authors": [
+          "Federico García Lorca"
+        ],
+        "publisher": "Vintage Espanol",
+        "publishedDate": "2012-11-13",
+        "description": "La obra poética completa de uno de los escritores más influyentes de la literatura española. La figura de Federico García Lorca abarca, tanto en España como en el exterior, mucho más que su literatura. Su poesía, traducida a infinidad de lenguas, recorre paisajes, hurga en tradiciones y denuncia injusticias con la maestría de un escritor que utilizó la pluma como pocos, y sus libros continúan leyéndose sin atender al paso del tiempo ni a las arbitrariedades de la moda. En esta deslumbrante colección, el lector podrá recorrer el tramo completo de su obra poética: empezando con el joven Lorca en Libro de poemas, Canciones y Juego y teoría del duende, pasando por clásicos lorquianos como Romancero gitano, Poema del cante jondo, el impresionante poemario Poeta en Nueva York, así como Tierra y luna, Sonetos y Llanto por Ignacio Sánchez Mejías, entre muchos otros. La edición y los prólogos otorgan al lector las herramientas necesarias para comprender y contextualizar al personaje, para acercarse a la complejidad de su obra y para disfrutar, en un sólo volumen, de uno de los autores españoles más relevantes del siglo XX. ENGLISH DESCRIPTION The complete poetic work of one of the most influential writers in Spanish literature. The figure of Federico García Lorca encompasses, both in Spain and abroad, much more than his literature. His poetry, translated into countless languages, travels through landscapes, delves into traditions and denounces injustices with the skill of a writer who used the pen like few others, and his books continue to be read by multiple generations. In this dazzling collection, the reader will be able to go through the entire stretch of his poetic work: starting with the young Lorca in Book of Poems, Songs and Theory and Play of the Duende, passing through Lorca classics such as Gypsy Ballads, Poem of the Deep Song, the impressive poem Poet in New York, as well as Lament for Ignacio Sánchez Mejías, among many others. This edition and its prologues give the reader the necessary tools to understand and contextualize the author, to get closer to the complexity of his work and to enjoy, in a single volume, one of the most relevant Spanish authors of the 20th century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307475756"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307475751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DdLcFYSFuEYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DdLcFYSFuEYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=DdLcFYSFuEYC&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=DdLcFYSFuEYC&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_Completa.html?hl=&id=DdLcFYSFuEYC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DdLcFYSFuEYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition and its prologues give the reader the necessary tools to understand and contextualize the author, to get closer to the complexity of his work and to enjoy, in a single volume, one of the most relevant Spanish authors of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qfOioAEACAAJ",
+      "etag": "pbUnjXKUmA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qfOioAEACAAJ",
+      "volumeInfo": {
+        "title": "Federico Garca Lorca, antologa completa / Federico Garca Lorca, complete anthology",
+        "authors": [
+          "Federico Garci'a Lorca"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-05-24",
+        "description": "Verde que te quiero verde… Federico García Lorca (Fuente Vaqueros, Granada, 5 de junio de 1898 – entre Víznar y Alfacar, Granada, 19 de agosto de 1936) fue un poeta, dramaturgo y prosista español adscrito a la llamada Generación del 27. Es el poeta de mayor influencia y popularidad de la literatura española del siglo XX. Como dramaturgo, se le considera una de las cimas del teatro español del siglo XX, junto con Valle-Inclán y Buero Vallejo. Murió ejecutado tras la sublevación militar de la Guerra Civil Española. En este libro:Poesía• Libro de poemas (1921)• Poema del cante jondo (1921)• Romancero gitano (1928)• Poeta en Nueva York (1930)• Llanto por Ignacio Sánchez Mejías (1935)• Diván del Tamarit (1936)• Sonetos del amor oscuro (1936)Teatro• El maleficio de la mariposa (1921)• Mariana Pineda (1927)• La zapatera prodigiosa (1930)• Retablillo de Don Cristóbal (1928)• El público (1930)• Así que pasen cinco años (1930)• Amor de don Perlimplín con Belisa en su jardín (1933)• Bodas de sangre (1933)• Yerma (1934)• Doña Rosita la soltera o el lenguaje de las flores (1935)• La casa de Bernarda Alba (1936)Los títeres de CachiporraOtros textos dramáticosDiálogos.Otros diálogos",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1499670729"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781499670721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qfOioAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qfOioAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=qfOioAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=qfOioAEACAAJ&dq=inauthor:Federico+Garcia+Lorca&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Federico_Garca_Lorca_antologa_completa_F.html?hl=&id=qfOioAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qfOioAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Verde que te quiero verde… Federico García Lorca (Fuente Vaqueros, Granada, 5 de junio de 1898 – entre Víznar y Alfacar, Granada, 19 de agosto de 1936) fue un poeta, dramaturgo y prosista español adscrito a la llamada Generación del ..."
+      }
+    }
+  ]
+}

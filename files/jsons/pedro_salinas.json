@@ -1,0 +1,701 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 374,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pMqjMQEACAAJ",
+      "etag": "NBrNxbF1pM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pMqjMQEACAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "Pedro Salinas"
+        ],
+        "publisher": "Alianza Editorial Sa",
+        "publishedDate": "2012-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8420609021"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420609027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pMqjMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pMqjMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=pMqjMQEACAAJ&dq=inauthor:Pedro+Salinas&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=pMqjMQEACAAJ&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=pMqjMQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pMqjMQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sr9_n_Qy1LMC",
+      "etag": "BF4o3jHZ4Mk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sr9_n_Qy1LMC",
+      "volumeInfo": {
+        "title": "El defensor",
+        "authors": [
+          "Pedro Salinas",
+          "Juan Marichal"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2002",
+        "description": "Aunque la lírica de Pedro Salinas sea la parte más conocida y estimada de su obra, los escritos de crítica literaria y ensayísticos del gran poeta le acreditan también como un extraordinario y agudo prosista. El defensor es una colección de cinco ensayos escritos durante su exilio puertorriqueño, entre 1942 y 1946. Tienen en común «la preocupación por el riesgo en que se ven hoy día algunas formas tradicionales de la vida del espíritu». En concreto, estos ensayos son una defensa de la carta y de la correspondencia epistolar como manifestación de recogimiento y meditación, de la lectura fértil y reposada, de la capacidad creadora de las minorías literarias, de los viejos analfabetos frente a los neoanalfabetos que han renunciado por voluntad propia, parcial o totalmente, a su capacidad de lectura; finalmente, del lenguaje, instrumento prodigioso para la expresión del propio ser y la convivencia con el prójimo. Como señala Juan Marichal en el prólogo de El defensor, «Salinas no es un ensayista introspectivo o egoísta. Sus ensayos están abiertos hacia la vida de su tiempo, de su mundo histórico. Son ensayos de espectador, o, más precisamente, de 3veedor2 y de 3oidor2 de la vida coetánea: porque en sus ensayos Salinas da rienda suelta a sus entusiasmos ‹¡y qué capacidad la suya para la sanísima admiración!‹, pero también sopesa y condena muchas actitudes y muchas injusticias».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "842064532X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420645322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 335,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Sr9_n_Qy1LMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Sr9_n_Qy1LMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=Sr9_n_Qy1LMC&dq=inauthor:Pedro+Salinas&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=Sr9_n_Qy1LMC&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_defensor.html?hl=&id=Sr9_n_Qy1LMC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sr9_n_Qy1LMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El defensor es una colección de cinco ensayos escritos durante su exilio puertorriqueño, entre 1942 y 1946. Tienen en común «la preocupación por el riesgo en que se ven hoy día algunas formas tradicionales de la vida del espíritu»."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GsAqAQAAMAAJ",
+      "etag": "Ch9j7Z55cF0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsAqAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Pedro Salinas",
+        "subtitle": "edición y estudio",
+        "authors": [
+          "Pedro Salinas",
+          "José Luis Gómez Toré"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556041189622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GsAqAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GsAqAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=GsAqAQAAMAAJ&q=inauthor:Pedro+Salinas&dq=inauthor:Pedro+Salinas&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=GsAqAQAAMAAJ&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Salinas.html?hl=&id=GsAqAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsAqAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C4drzfniitYC",
+      "etag": "zGxUjgKXhVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C4drzfniitYC",
+      "volumeInfo": {
+        "title": "Pedro Salinas para niños",
+        "authors": [
+          "Pedro Salinas"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "1992",
+        "description": "Su hija Solita nos acerca a la vida y obra de este miembro destacado de la Generación del 27, que es considerado uno de los grandes poetas del amor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479600012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479600013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C4drzfniitYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C4drzfniitYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=C4drzfniitYC&printsec=frontcover&dq=inauthor:Pedro+Salinas&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=C4drzfniitYC&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Salinas_para_ni%C3%B1os.html?hl=&id=C4drzfniitYC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C4drzfniitYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Su hija Solita nos acerca a la vida y obra de este miembro destacado de la Generación del 27, que es considerado uno de los grandes poetas del amor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_NzElWJspUC",
+      "etag": "51uuHRyr7lw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_NzElWJspUC",
+      "volumeInfo": {
+        "title": "Homenatge a Pedro Salinas",
+        "authors": [
+          "Pedro Salinas"
+        ],
+        "publisher": "Edicions Universitat Barcelona",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8478759964"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788478759965"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_NzElWJspUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_NzElWJspUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=5_NzElWJspUC&pg=PA47&dq=inauthor:Pedro+Salinas&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=5_NzElWJspUC&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homenatge_a_Pedro_Salinas.html?hl=&id=5_NzElWJspUC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_NzElWJspUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "EL ENSAYO Y LA CRÍTICA LITERARIA EN \u003cb\u003eSALINAS\u003c/b\u003e FRANCISCO JAVIER DÍEZ DE REVENGA Universidad de Murcia Antes de referirme directamente a la obra ensayistica de Pedro \u003cb\u003eSalinas\u003c/b\u003e y de señalar lo que para mí tiene de trascendente y de&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C4drzfniitYC",
+      "etag": "2ZLE6WS6oSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C4drzfniitYC",
+      "volumeInfo": {
+        "title": "Pedro Salinas para niños",
+        "authors": [
+          "Pedro Salinas"
+        ],
+        "publisher": "Ediciones de la Torre",
+        "publishedDate": "1992",
+        "description": "Su hija Solita nos acerca a la vida y obra de este miembro destacado de la Generación del 27, que es considerado uno de los grandes poetas del amor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479600012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479600013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C4drzfniitYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C4drzfniitYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=C4drzfniitYC&pg=PA23&dq=inauthor:Pedro+Salinas&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=C4drzfniitYC&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Salinas_para_ni%C3%B1os.html?hl=&id=C4drzfniitYC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C4drzfniitYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pedro \u003cb\u003eSalinas\u003c/b\u003e. BIBLIOGRAFÍA A ) POESÍA Presagios , Madrid , 1924 . Seguro azar , Madrid , 1929 . Fábula y signo , Madrid , 1931 . y La voz a ti debida , Madrid , 1933 . Razón de amor , Madrid , 1936 . Poesía junta , Buenos Aires&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_NzElWJspUC",
+      "etag": "OkUs7bAwgaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_NzElWJspUC",
+      "volumeInfo": {
+        "title": "Homenatge a Pedro Salinas",
+        "authors": [
+          "Pedro Salinas"
+        ],
+        "publisher": "Edicions Universitat Barcelona",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8478759964"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788478759965"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_NzElWJspUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_NzElWJspUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=5_NzElWJspUC&printsec=frontcover&dq=inauthor:Pedro+Salinas&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=5_NzElWJspUC&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homenatge_a_Pedro_Salinas.html?hl=&id=5_NzElWJspUC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_NzElWJspUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OUtYrkb33QIC",
+      "etag": "4I5MTOtYohk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OUtYrkb33QIC",
+      "volumeInfo": {
+        "title": "Guerra de las Salinas",
+        "authors": [
+          "Pedro de Cieza de León"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:5324328336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 463,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OUtYrkb33QIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OUtYrkb33QIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=OUtYrkb33QIC&pg=PA1&dq=inauthor:Pedro+Salinas&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OUtYrkb33QIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OUtYrkb33QIC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OUtYrkb33QIC&rdid=book-OUtYrkb33QIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.es/books/download/Guerra_de_las_Salinas.epub?id=OUtYrkb33QIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.es/books/download/Guerra_de_las_Salinas.pdf?id=OUtYrkb33QIC&hl=&output=pdf&sig=ACfU3U0e1W-mUiUW4ots0ia-iBSqWyvNuw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OUtYrkb33QIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "GUERRA DE LAS \u003cb\u003eSALINAS\u003c/b\u003e . que se Bien será , pues comenzamos á contar las guerras ceviles del Perú , que demos noticia de lo contiene en esta primer guerra , la cual se llama de las \u003cb\u003eSalinas\u003c/b\u003e ; y es que , venido de Chile D. Diego de Almagro&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GsAqAQAAMAAJ",
+      "etag": "eJUBczFmnRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsAqAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Pedro Salinas",
+        "subtitle": "edición y estudio",
+        "authors": [
+          "Pedro Salinas",
+          "José Luis Gómez Toré"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556041189622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GsAqAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GsAqAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=GsAqAQAAMAAJ&q=inauthor:Pedro+Salinas&dq=inauthor:Pedro+Salinas&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=GsAqAQAAMAAJ&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Salinas.html?hl=&id=GsAqAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsAqAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "edición y estudio Pedro \u003cb\u003eSalinas\u003c/b\u003e, José Luis Gómez Toré. 126 OBRAS[H5PEDR()SAlJNAS POESÍA Poesías completas, I: Presagios. Seguro Azar. Fábula y Signo (edición de Soledad \u003cb\u003eSalinas\u003c/b\u003e de Marichal), Madrid, Alianza, 1989."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jOJeEAAAQBAJ",
+      "etag": "2zh5d4IWe5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jOJeEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Diario de un viage a Salinas Grandes, en los campos del sud de Buenos Aires",
+        "authors": [
+          "Pedro Andres Garcia"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-02-14",
+        "description": "Reproducción del original",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783752496031"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3752496037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jOJeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jOJeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=jOJeEAAAQBAJ&pg=PA45&dq=inauthor:Pedro+Salinas&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=jOJeEAAAQBAJ&dq=inauthor:Pedro+Salinas&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_un_viage_a_Salinas_Grandes_en.html?hl=&id=jOJeEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jOJeEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Se reconoció ser un chañar espeso, desde cuyo punto por una cañada ò bajo que se presenta á la vista, se descubrieron otros varios árboles, y á mayor distancia un bosque, que resultó ser parte del monte de la Laguna de \u003cb\u003eSalinas\u003c/b\u003e."
+      }
+    }
+  ]
+}

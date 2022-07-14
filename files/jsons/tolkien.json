@@ -1,0 +1,850 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 280,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YGc7EAAAQBAJ",
+      "etag": "CYkfPhxuEx4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YGc7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Pictures by J. R. R. Tolkien",
+        "authors": [
+          "J. R. R. TOLKIEN"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2021-11-16",
+        "description": "First published more than forty years ago, Pictures by J.R.R. Tolkien brings together sketches and pictures by Tolkien that appeared in the official calendars published in the 1970s.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780358653042"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0358653045"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YGc7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YGc7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=YGc7EAAAQBAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=YGc7EAAAQBAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pictures_by_J_R_R_Tolkien.html?hl=&id=YGc7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YGc7EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First published more than forty years ago, Pictures by J.R.R. Tolkien brings together sketches and pictures by Tolkien that appeared in the official calendars published in the 1970s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gDUKEAAAQBAJ",
+      "etag": "tMBWVfNccQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gDUKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Nature of Middle-earth",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "HarperCollins",
+        "publishedDate": "2021-09-02",
+        "description": "First ever publication of J.R.R. Tolkien’s final writings on Middle-earth, covering a wide range of subjects and perfect for those who have read and enjoyed The Silmarillion, The Lord of the Rings, Unfinished Tales, and The History of Middle-earth, and want to learn more about Tolkien’s magnificent world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780008387938"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0008387931"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gDUKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gDUKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=gDUKEAAAQBAJ&printsec=frontcover&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gDUKEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gDUKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.64,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 31.01,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gDUKEAAAQBAJ&rdid=book-gDUKEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32640000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 31010000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/The_Nature_of_Middle_earth-sample-epub.acsm?id=gDUKEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gDUKEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "First ever publication of J.R.R. Tolkien’s final writings on Middle-earth, covering a wide range of subjects and perfect for those who have read and enjoyed The Silmarillion, The Lord of the Rings, Unfinished Tales, and The History of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JsG-ywEACAAJ",
+      "etag": "ZTH4EeOPlLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JsG-ywEACAAJ",
+      "volumeInfo": {
+        "title": "Letters from Father Christmas, Centenary Edition",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Houghton Mifflin",
+        "publishedDate": "2020-10-06",
+        "description": "Published to celebrate the first ever 'letter from Father Christmas' in 1920, this beautiful oversized edition of Tolkien's famous illustrated letters from 'Father Christmas' includes a wealth of charming letters, pictures and decorated envelopes, and promises to be a festive feast for Tolkien fans of all ages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0358389887"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780358389880"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JsG-ywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JsG-ywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=JsG-ywEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=JsG-ywEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Letters_from_Father_Christmas_Centenary.html?hl=&id=JsG-ywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JsG-ywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For fans of Tolkien and lovers of Christmas holidays, Letters from Father Christmas is a gorgeous, festive gift featuring all of the letters that J.R.R. created for his children for the first time in one book along with other archival ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LKCPoAEACAAJ",
+      "etag": "pN5ObXFT8GQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LKCPoAEACAAJ",
+      "volumeInfo": {
+        "title": "The Hobbit and the Lord of the Rings: Deluxe Pocket Boxed Set",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Houghton Mifflin",
+        "publishedDate": "2014-10-21",
+        "description": "Presents a box set including the complete \"Lord of the Rings\" trilogy, as well as its prequel, \"The Hobbit.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0544445783"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544445789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1504,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LKCPoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LKCPoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=LKCPoAEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=LKCPoAEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit_and_the_Lord_of_the_Rings_Del.html?hl=&id=LKCPoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LKCPoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a box set including the complete &quot;Lord of the Rings&quot; trilogy, as well as its prequel, &quot;The Hobbit.&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wbm1mQEACAAJ",
+      "etag": "AI9M+e+nm0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wbm1mQEACAAJ",
+      "volumeInfo": {
+        "title": "The Hobbit: Illustrated Edition",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2013",
+        "description": "Bilbo Baggins, a respectable, well-to-do hobbit, lives comfortably in his hobbit-hole until the day the wandering wizard Gandalf chooses him to take part in an adventure from which he may never return.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0544174224"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780544174221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wbm1mQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wbm1mQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.es/books?id=Wbm1mQEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=Wbm1mQEACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit_Illustrated_Edition.html?hl=&id=Wbm1mQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wbm1mQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bilbo Baggins, a respectable, well-to-do hobbit, lives comfortably in his hobbit-hole until the day the wandering wizard Gandalf chooses him to take part in an adventure from which he may never return."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FGn5cD-lCtQC",
+      "etag": "wbUICw17/7s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FGn5cD-lCtQC",
+      "volumeInfo": {
+        "title": "El Silmarillion (NE)",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Grupo Planeta Spain",
+        "publishedDate": "2010-07-15",
+        "description": "El Silmarillion cuenta la historia de la Primera Edad, el antiguo drama del que hablan los personajes de El Señor de los Anillos, y en cuyos acontecimientos algunos de ellos tomaron parte, como Elrond y Galadriel... Una obra de auténtica imaginación, una visión inspirada, legendaria o mítica, del interminable conflicto entre el deseo de poder y la capacidad de crear.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445077955"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8445077953"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.29.29.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FGn5cD-lCtQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FGn5cD-lCtQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=FGn5cD-lCtQC&printsec=frontcover&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FGn5cD-lCtQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FGn5cD-lCtQC"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.84,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FGn5cD-lCtQC&rdid=book-FGn5cD-lCtQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2840000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/El_Silmarillion_NE-sample-epub.acsm?id=FGn5cD-lCtQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/El_Silmarillion_NE-sample-pdf.acsm?id=FGn5cD-lCtQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FGn5cD-lCtQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El Silmarillion cuenta la historia de la Primera Edad, el antiguo drama del que hablan los personajes de El Señor de los Anillos, y en cuyos acontecimientos algunos de ellos tomaron parte, como Elrond y Galadriel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fv6EDwAAQBAJ",
+      "etag": "CfvpEYJWO00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fv6EDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Caída de Gondolin",
+        "subtitle": "Editado por Christopher Tolkien. Ilustrado por Alan Lee",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Minotauro",
+        "publishedDate": "2019-03-05",
+        "description": "En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo. Por un lado está Morgoth, el mal más absoluto, que está al mando de un enorme poder militar que controla desde su fortaleza en Angband. En su oposición está Ulmo, el segundo Vala más poderoso. Trabaja secretamente en la Tierra Media para apoyar a los Noldor, el grupo de elfos entre los que se contaban Húrin y Túrin Turambar. En el centro de este conflicto entre deidades se encuentra la ciudad de Gondolin, bella pero escondida más allá de toda posibilidad de ser descubierta. Fue construida y habitada por elfos Noldor que se rebelaron contra el poder divino y huyeron desde Valinor, la tierra de los dioses, a la Tierra Media. Turgon, el rey de Gondolin, es el principal objeto tanto del odio como el miedo de Morgoth, quien trata en vano de descubrir la ciudad, escondida como por arte de magia. En este mundo entra Tuor, el primo de Túrin, como instrumento para hacer cumplir los planes de Ulmo. Guiado por el dios desde la invisibilidad, Tuor parte de la tierra donde nació y emprende un peligroso viaje en busca de Gondolin. En uno de los momentos más fascinantes de la historia de la Tierra Media, Ulmo se persona ante él, emergiendo del mar en medio de una tormenta. En Gondolin Tuor madura; se casa con Idril, y tienen a su hijo Eärendel. Después llega el terrible final. Debido a un acto de traición suprema, Morgoth se entera de cómo lanzar un ataque devastador a la ciudad, valiéndose de balrogs, dragones e incontables orcos. En este libro Christopher Tolkien ha intentado extraer la historia de La Caída de Gondolin de la extensa obra en la cual estaba entretejida. Para ilustrar una parte del proceso a través del cual este \"Gran Relato\" de la Tierra Media evolucionó a través de los años, Christopher ha narrado la historia en palabras de su padre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445006412"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "844500641X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fv6EDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fv6EDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=fv6EDwAAQBAJ&printsec=frontcover&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fv6EDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fv6EDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.49,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fv6EDwAAQBAJ&rdid=book-fv6EDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9490000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/La_Ca%C3%ADda_de_Gondolin-sample-epub.acsm?id=fv6EDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/La_Ca%C3%ADda_de_Gondolin-sample-pdf.acsm?id=fv6EDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fv6EDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En el Cuento de La Caída de Gondolin chocan dos de los principales poderes del mundo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q_P7oMO3lC4C",
+      "etag": "9VczOAGbu24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q_P7oMO3lC4C",
+      "volumeInfo": {
+        "title": "Trilogía El Señor de los Anillos",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Grupo Planeta Spain",
+        "publishedDate": "2012-12-14",
+        "description": "Concebida en un primer momento como una continuación de El Hobbit, acabó por convertirse en una historia independiente por derecho propio de mucho más alcance y extensión. En 1999 la trilogía de El Señor de los Anillos fue elegida como \"Libro del Milenio\" por los participantes de una encuesta de Amazon.com. En la adormecida e idílica Comarca, un joven hobbit recibe un encargo: custodiar el Anillo Único y emprender el viaje para su destrucción en las Grietas del Destino. Consciente de la importancia de su misión, Frodo abandona la Comarca e inicia el camino hacia Mordor con la compañía inesperada de Sam, Pippin y Merry. Pero sólo con la ayuda de Aragorn conseguirán vencer a los Jinetes Negros y alcanzar el refugio de la Casa de Elrond en Rivendel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445001288"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8445001280"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1923,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.30.30.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q_P7oMO3lC4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q_P7oMO3lC4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=q_P7oMO3lC4C&printsec=frontcover&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q_P7oMO3lC4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q_P7oMO3lC4C"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.24,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q_P7oMO3lC4C&rdid=book-q_P7oMO3lC4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14240000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Trilog%C3%ADa_El_Se%C3%B1or_de_los_Anillos-sample-epub.acsm?id=q_P7oMO3lC4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Trilog%C3%ADa_El_Se%C3%B1or_de_los_Anillos-sample-pdf.acsm?id=q_P7oMO3lC4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q_P7oMO3lC4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En 1999 la trilogía de El Señor de los Anillos fue elegida como «Libro del Milenio» por los participantes de una encuesta de Amazon.com."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9EJMDwAAQBAJ",
+      "etag": "tkQtvYkTovg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9EJMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beren y Lúthien",
+        "subtitle": "Editado por Christopher Tolkien. Ilustrado por Alan Lee",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publisher": "Minotauro",
+        "publishedDate": "2018-02-13",
+        "description": "El relato de Beren y Lúthien era, o se convirtió, en un elemento esencial en la evolución de El Silmarillion, los mitos y leyendas de la Primera Edad del Mundo concebidos por J. R. R. Tolkien. El autor escribió el relato durante el año siguiente a su regreso de Francia y de la batalla del Somme a finales de 1916. Esencial para la historia y sin haber sido nunca alterado, el elemento central del relato es el destino que ensombrece el amor de Beren y Lúthien, dado que Beren era un hombre mortal y Lúthien una Elfa inmortal, cuyo padre, un gran señor Elfo, en clara oposición a Beren, impuso a éste una tarea imposible que debía llevar a cabo si quería desposar a Lúthien. Éste es el núcleo de la leyenda, que acaba conduciendo al absolutamente heroico intento de Beren y Lúthien de robarle un Silmaril al más malvado de todos los seres: Melkor, también llamado Morgoth, el Enemigo Oscuro. En este libro Christopher Tolkien ha intentado extraer la historia de Beren y Lúthien de la extensa obra en la cual estaba entretejida. Para ilustrar una parte del proceso a través del cual este «Gran Relato» de la Tierra Media evolucionó a través de los años, Christopher ha narrado la historia en palabras de su padre ofreciendo, en primer lugar, su forma original, y a continuación pasajes en prosa y verso de textos posteriores que ilustran cómo ha cambiado la narrativa.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445005187"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8445005189"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9EJMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9EJMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=9EJMDwAAQBAJ&printsec=frontcover&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9EJMDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9EJMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 4.74,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9EJMDwAAQBAJ&rdid=book-9EJMDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4740000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Beren_y_L%C3%BAthien-sample-epub.acsm?id=9EJMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.es/books/download/Beren_y_L%C3%BAthien-sample-pdf.acsm?id=9EJMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9EJMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El relato de Beren y Lúthien era, o se convirtió, en un elemento esencial en la evolución de El Silmarillion, los mitos y leyendas de la Primera Edad del Mundo concebidos por J. R. R. Tolkien."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "99-UPwAACAAJ",
+      "etag": "lJcGF/KdK7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/99-UPwAACAAJ",
+      "volumeInfo": {
+        "title": "El Hobbit",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publishedDate": "2002",
+        "description": "Un gran clásico moderno y el preludio a las vastas y poderosas mitologías de El Señor de Los Anillos. Cuando alrededor de 1930, J.R.R. Tolkien comenzó a escribir El Hobbit, hacía ya diez años que trabajaba en el vasto panorama mitológico de El Libro de los Relatos, que más tarde se llamaría El Silmarillion. Así como esas crónicas tempranas narraban los mitos inmemoriales de la Primera y Segunda Edad, Tolkien pronto advirtió que El Hobbit iba ordenándose de algún modo como un relato de la Tercera Edad (Gandalf habla del Nigromante en las primeras páginas), aunque las inesperadas aventuras de un pacífico \"hombre del campo\" no parecieran tener mucha relación con las vastas y oscuras mitologías de la Tierra Media. El estilo directo y lineal, con alusiones (que el autor deploró más tarde) a un público infantil, no impide la poderosa irrupción --unas pocas veces en términos de comedia-- de los grandes temas tolkienianos (el poder, la codicia, la guerra, la muerte) que reaparecerían en una dimensión a menudo obviamente épica en El Señor de los Anillos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "844507380X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445073803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=99-UPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=99-UPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.es/books?id=99-UPwAACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.es/books?id=99-UPwAACAAJ&dq=inauthor:J.+R.+R.+Tolkien&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Hobbit.html?hl=&id=99-UPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "ES",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "ES",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=99-UPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cuando alrededor de 1930, J.R.R. Tolkien comenzó a escribir El Hobbit, hacía ya diez años que trabajaba en el vasto panorama mitológico de El Libro de los Relatos, que más tarde se llamaría El Silmarillion."
+      }
+    }
+  ]
+}
